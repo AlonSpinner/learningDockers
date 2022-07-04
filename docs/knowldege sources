@@ -1,0 +1,13 @@
+https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/
+
+$ sudo apt update
+$ sudo apt install docker.io
+$ sudo docker run hello-world
+
+https://www.youtube.com/watch?v=2lU9zdrs9bM&ab_channel=edureka%21
+
+https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=freeCodeCamp.org
+
+https://kodekloud.com/topic/demo-advanced-docker-run-features/ #<------------------------------- THIS SHIT IS THE BEST
+
+https://www.youtube.com/watch?v=LQjaJINkQXY&ab_channel=AutomationStepbyStep

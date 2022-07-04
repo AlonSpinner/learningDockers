@@ -1,0 +1,8 @@
+I want to:
+1) create a docker that can run python code
+
+2) copy a file to it
+
+3) run some algorithm on that file
+
+4) return that file to host
